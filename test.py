@@ -1,0 +1,1 @@
+print("Studying in fintech")
